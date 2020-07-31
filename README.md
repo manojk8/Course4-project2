@@ -14,3 +14,5 @@ inherited by the subclasses. Call it opponent. It should return which type of po
 a tuple.  Grass is weak against Fire and strong against Water  Ghost is weak against Dark and strong against Psychic  Fire is weak aga
 inst Water and strong against Grass  Flying is weak against Electric and strong against Fighting  For example, if the p_type of the subclass
 is 'Grass', .opponent() should return the tuple ('Fire', 'Water')
+
+Use this as a refernce. Do the right thing. 
